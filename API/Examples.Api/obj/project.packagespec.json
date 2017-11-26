@@ -1,0 +1,32 @@
+﻿{
+  "version": "1.0.0",
+  "restore": {
+    "projectUniqueName": "/Users/alexandermartirosov/GitHub/Examples/Examples/API/Examples.Api/Examples.Api.csproj",
+    "projectName": "Examples.Api",
+    "projectPath": "/Users/alexandermartirosov/GitHub/Examples/Examples/API/Examples.Api/Examples.Api.csproj",
+    "outputPath": "/Users/alexandermartirosov/GitHub/Examples/Examples/API/Examples.Api/obj/",
+    "projectStyle": "PackageReference",
+    "originalTargetFrameworks": [
+      "netcoreapp2.0"
+    ],
+    "frameworks": {
+      "netcoreapp2.0": {
+        "projectReferences": {}
+      }
+    }
+  },
+  "frameworks": {
+    "netcoreapp2.0": {
+      "dependencies": {
+        "Microsoft.NETCore.App": {
+          "target": "Package",
+          "version": "2.0.0"
+        },
+        "Microsoft.AspNetCore.All": {
+          "target": "Package",
+          "version": "2.0.0"
+        }
+      }
+    }
+  }
+}

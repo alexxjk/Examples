@@ -1,0 +1,10 @@
+/Users/alexandermartirosov/GitHub/Examples/Examples/API/Examples.Api/obj/Debug/netcoreapp2.0/Examples.Api.csproj.CoreCompileInputs.cache
+/Users/alexandermartirosov/GitHub/Examples/Examples/API/Examples.Api/obj/Debug/netcoreapp2.0/Examples.Api.AssemblyInfoInputs.cache
+/Users/alexandermartirosov/GitHub/Examples/Examples/API/Examples.Api/obj/Debug/netcoreapp2.0/Examples.Api.AssemblyInfo.cs
+/Users/alexandermartirosov/GitHub/Examples/Examples/API/Examples.Api/bin/Debug/netcoreapp2.0/Examples.Api.deps.json
+/Users/alexandermartirosov/GitHub/Examples/Examples/API/Examples.Api/bin/Debug/netcoreapp2.0/Examples.Api.runtimeconfig.json
+/Users/alexandermartirosov/GitHub/Examples/Examples/API/Examples.Api/bin/Debug/netcoreapp2.0/Examples.Api.runtimeconfig.dev.json
+/Users/alexandermartirosov/GitHub/Examples/Examples/API/Examples.Api/bin/Debug/netcoreapp2.0/Examples.Api.dll
+/Users/alexandermartirosov/GitHub/Examples/Examples/API/Examples.Api/bin/Debug/netcoreapp2.0/Examples.Api.pdb
+/Users/alexandermartirosov/GitHub/Examples/Examples/API/Examples.Api/obj/Debug/netcoreapp2.0/Examples.Api.dll
+/Users/alexandermartirosov/GitHub/Examples/Examples/API/Examples.Api/obj/Debug/netcoreapp2.0/Examples.Api.pdb
