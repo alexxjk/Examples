@@ -1,0 +1,5 @@
+/Users/alexandermartirosov/GitHub/Examples/Examples/API/Examples.Api
+--output-path=obj/Debug/netcoreapp2.0/
+--application-name=Examples.Api
+--content-root=/Users/alexandermartirosov/GitHub/Examples/Examples/API/Examples.Api
+--file=

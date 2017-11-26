@@ -8,3 +8,4 @@
 /Users/alexandermartirosov/GitHub/Examples/Examples/API/Examples.Api/bin/Debug/netcoreapp2.0/Examples.Api.pdb
 /Users/alexandermartirosov/GitHub/Examples/Examples/API/Examples.Api/obj/Debug/netcoreapp2.0/Examples.Api.dll
 /Users/alexandermartirosov/GitHub/Examples/Examples/API/Examples.Api/obj/Debug/netcoreapp2.0/Examples.Api.pdb
+/Users/alexandermartirosov/GitHub/Examples/Examples/API/Examples.Api/obj/Debug/netcoreapp2.0/Examples.Api.csprojResolveAssemblyReference.cache
